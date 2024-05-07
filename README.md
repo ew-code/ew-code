@@ -78,11 +78,12 @@ Certificate confirming skills in building a professional testing framework using
 <!-- ![Project Logo](link/to/logo.svg) -->
 I am developing an automated testing project in which I use the Playwright + TypeScript
 framework. Ultimately, the projects will include test plans, test scenarios and a CD\CI pipeline.<br>
-Check out the repo!
+Check out the repositories!
 
-• GAD App Tests <br>
-• Demo Bank App Tests <br>
-• Test Scenario for Demo Bank App <br>
+• [GAD App Tests](https://github.com/ew-code/GAD-App-Tests) <br>
+• [Demo Bank App Tests](https://github.com/ew-code/Demo-Bank-App-Tests) <br>
+• [Demo Bank App with GitHub Actions](https://github.com/ew-code/playwright-demobank-actions/tree/master) <br>
+<!-- • Test Scenario for Demo Bank App <br> -->
 
 ## 📊 My Github Stats
 
