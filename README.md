@@ -45,7 +45,7 @@
 •  🐛 Bug Hunting and Tracking<br>
 •  🌐 API Testing and Validation (Playwright, Postman, Karate DSL)<br>
 •  💻 Proficiency in test design techniques for creating effective and comprehensive test cases<br>
-•  📊 Performance Testing (Artillery)<br>
+•  📊 I'm planning to learn Performance Testing (with Artillery)<br>
 •  📱 Mobile App Testing<br>
 •  🧪 Agile Collaboration (Scrum)<br>
 •  🧪 Traditional Collaboration (Waterfall)<br>
