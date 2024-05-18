@@ -94,5 +94,5 @@ Check out the repositories!
 ## 📫 Contact
 
 If you have any questions or suggestions, feel free to contact me: <br>
-[<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:ewelina.wesolo@gmail.com)
+[<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:e.wesol@hotmail.com)
 [<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/ewelina-weso%C5%82owska/)
