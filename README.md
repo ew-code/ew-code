@@ -49,7 +49,7 @@
 •  📱 Mobile App Testing<br>
 •  🧪 Agile Collaboration (Scrum)<br>
 •  🧪 Traditional Collaboration (Waterfall)<br>
-•  🌟 English Proficiency: B1/B2<br>
+•  🌟 English Proficiency: B2<br>
 
 ## 📝Certificates
 
