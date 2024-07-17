@@ -92,8 +92,8 @@ Check out the repositories!
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ew-code&theme=red" />
 </p>
 
-## 📫 Contact
+<!-- ## 📫 Contact -->
 
-If you have any questions or suggestions, feel free to contact me: <br>
-[<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:e.wesol@hotmail.com)
-[<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/ewelina-weso%C5%82owska/)
+<!-- If you have any questions or suggestions, feel free to contact me: <br> -->
+<!-- [<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:e.wesol@hotmail.com) -->
+<!-- [<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/ewelina-weso%C5%82owska/) -->
