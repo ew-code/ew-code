@@ -40,7 +40,7 @@
 ## 🚀 My Skills
 
 •  🤖 Automation Testing<br>
-•  🛠️ Test Frameworks (Playwright + TypeScript)<br>
+•  🛠️ Test Frameworks (Playwright + TypeScript/JavaScript)<br>
 •  📊 Continuous Integration/Deployment (GitHub Actions, Jenkins)<br>
 •  🐛 Bug Hunting and Tracking<br>
 •  🌐 API Testing and Validation (Playwright, Postman, Karate DSL)<br>
