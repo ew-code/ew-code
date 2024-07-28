@@ -83,7 +83,7 @@ Check out the repositories!
 • [GAD App Tests](https://github.com/ew-code/GAD-App-Tests) <br>
 • [Demo Bank App Tests](https://github.com/ew-code/Demo-Bank-App-Tests) <br>
 • [Demo Bank App with GitHub Actions](https://github.com/ew-code/playwright-demobank-actions/tree/master) <br>
-• [Cypress Tests](https://github.com/ew-code/cypress)<br>
+• [NGX Cypress Tests](https://github.com/ew-code/NGX-CYPRESS-TEST)<br>
 <!-- • Test Scenario for Demo Bank App <br> -->
 
 ## 📊 My Github Stats
