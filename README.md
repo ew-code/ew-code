@@ -69,7 +69,7 @@ Certificate confirming skills in building a professional testing framework using
 
 #### Certificate Details
 
-- **Name:** [Automation with Playwright:Mastering Web Automation with AI](https://university.engenious.io/courses/8)
+- **Name:** [Automation with Playwright: Mastering Web Automation with AI](https://university.engenious.io/courses/8)
 - **Issuing Organization:** [Engenious University](https://engenious.io/contact-us)
 - **Date of Issue:** 26/09/2024
 
