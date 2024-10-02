@@ -1,10 +1,10 @@
+<img src="./private/TestAutomationEngineer.svg">
+
 <p align="center">
     <img src="./private/header.png"/>
 </p>
 
 ## 👩🏻‍💻 About Me
-
-<img src="./private/TestAutomationEngineer.svg">
 
 🎯 *Experienced Test Automation Engineer* | Specialized in Playwright, API Testing, and CI/CD Pipelines | Working in the IT industry since 2017, automating testing processes since 2020.
 
