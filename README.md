@@ -7,7 +7,7 @@
 
 🎯 Experienced Test Automation Engineer | Specialized in Playwright, API Testing, and CI/CD Pipelines | 6+ years in IT, automating testing processes since 2020.
 
-I embarked on my software testing journey driven by a passion for problem-solving and a keen eye for efficiency. My career began in 2017, focusing on manual testing and ensuring high-quality software delivery. In 2020, I transitioned into automation, where I found my true calling in creating streamlined, automated processes that deliver reliable results.
+I started my journey in software testing out of a passion for problem-solving and a drive to improve efficiency. My career began in 2017, focusing on manual testing and ensuring high-quality software delivery. In 2020, I moved into automation, where I discovered my passion for creating streamlined processes that deliver reliable results.
 
 Now, I specialize in designing and implementing automation frameworks that ensure precision and performance. My expertise spans Playwright, API testing, and integrating CI/CD pipelines to optimize software development lifecycles.
 
