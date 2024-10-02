@@ -130,22 +130,19 @@ Developing automated tests for a custom Angular component library using Cypress.
 
 • [NGX Cypress Tests](https://github.com/ew-code/NGX-CYPRESS-TEST)<br>
 
-## 📊 My Github Stats
 
-<p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ew-code&theme=red" />
-</p>
+## 📊 My Github Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ew-code&theme=red" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ew-code&show_icons=true&theme=radical" alt="GitHub Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ew-code&show_icons=true&theme=red" alt="GitHub Stats Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ew-code&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ew-code&layout=compact&theme=red" alt="Top Languages" />
 </p>
 
  ## 📫 Contact
