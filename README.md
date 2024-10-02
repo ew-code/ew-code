@@ -6,7 +6,7 @@
 
 <img src="./private/TestAutomationEngineer.svg">
 
-🎯 *Experienced Test Engineer* | Specialized in Playwright, API Testing, and CI/CD Pipelines | Working in the IT industry since 2017, automating testing processes since 2020.
+🎯 *Experienced Test Automation Engineer* | Specialized in Playwright, API Testing, and CI/CD Pipelines | Working in the IT industry since 2017, automating testing processes since 2020.
 
 I began my journey in the world of software testing out of a love for problem-solving and efficiency. Since 2017, I've been ensuring software quality as a manual tester, and in 2020 I transitioned to test automation. Driven by a desire to create software that performs flawlessly, I specialize in automating processes that guarantee precision. While I haven't yet contributed to any open-source projects, I am eager to do so in the near future as part of my continuous learning and growth. 
 When I'm not hunting for bugs, I enjoy staying updated on new technologies and expanding my knowledge in testing and automation.
