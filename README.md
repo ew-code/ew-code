@@ -6,11 +6,15 @@
 
 <img src="./private/TestAutomationEngineer.svg">
 
-•  🎭 Exploring the depths of Playwright testing framework and other tools.<br>
-•  🔍 Forever on the hunt for bugs to squash and systems to streamline.<br>
-•  🛠️ Crafting automated testing solutions that shine brightly.<br>
-•  ⚡ Converting caffeine into code that operates seamlessly while you rest.<br>
-•  💼 Working commercially in the IT industry since 2017.<br>
+🎯 *Experienced Test Engineer* | Specialized in Playwright, API Testing, and CI/CD Pipelines | Working in the IT industry since 2017, automating testing processes since 2020.
+
+I began my journey in the world of software testing out of a love for problem-solving and efficiency. Since 2017, I've been ensuring software quality as a manual tester, and in 2020 I transitioned to test automation. Driven by a desire to create software that performs flawlessly, I specialize in automating processes that guarantee precision. While I haven't yet contributed to any open-source projects, I am eager to do so in the near future as part of my continuous learning and growth. 
+When I'm not hunting for bugs, I enjoy staying updated on new technologies and expanding my knowledge in testing and automation.
+
+<!-- •  🎭 Exploring the depths of Playwright testing framework and other tools.<br> -->
+<!-- •  🔍 Forever on the hunt for bugs to squash and systems to streamline.<br> -->
+<!-- •  🛠️ Crafting automated testing solutions that shine brightly.<br> -->
+<!-- •  ⚡ Converting caffeine into code that operates seamlessly while you rest.<br> -->
 
 ## 🛠️ Tools & Technologies
 
@@ -37,6 +41,19 @@
   <img src="./public/icons/InteliJ.svg" alt="InteliJ Logo" width="100" height="100">
 </p>
 
+### 🔧 Tools by Category
+**Frontend Tools:**
+- Playwright, TypeScript, JavaScript, Cucumber, Node.js
+
+**Backend/API Testing:**
+- RestAPI, Postman, Karate DSL, Swagger
+
+**CI/CD and Version Control:**
+- Git, GitHub, GitHub Actions, Jenkins, Bitbucket
+
+**Collaboration and Issue Tracking:**
+- Jira, Confluence, Adaptavist, Zephyr, Trello, Asana 
+
 ## 🚀 My Skills
 
 •  🤖 Automation Testing<br>
@@ -50,6 +67,11 @@
 •  🧪 Agile Collaboration (Scrum)<br>
 •  🧪 Traditional Collaboration (Waterfall)<br>
 •  🌟 English Proficiency: B2<br>
+
+## 🌟 Key Achievements
+
+- My most recent and significant professional achievement was the **independent implementation of a test automation framework from scratch** and its integration with a CI/CD pipeline on Jenkins. This implementation was crucial for optimizing processes within my team, significantly improving the efficiency of our testing workflows.
+<!-- Developed automated tests for an e-commerce platform, ensuring flawless user experience across various browsers and devices.-->
 
 ## 📝Certificates
 
@@ -88,11 +110,22 @@ I am developing an automated testing project in which I use the Playwright + Typ
 framework. Ultimately, the projects will include test plans, test scenarios and a CD\CI pipeline.<br>
 Check out the repositories!
 
-• [GAD App Tests](https://github.com/ew-code/GAD-App-Tests) <br>
+### **GAD App Tests**
+I am developing a comprehensive suite of automated tests for a web application using Playwright and TypeScript. This project includes testing complex user interactions and API validations.
+<!--Integrated with GitHub Actions for CI/CD pipeline automation.-->
+• [GAD App Tests](https://github.com/ew-code/GAD-App-Tests) <br> 
+
+### **Demo Bank App Tests**
+A series of automated tests for a banking application, focusing on UI and API layers. It also features GitHub Actions for CI integration.
+
 • [Demo Bank App Tests](https://github.com/ew-code/Demo-Bank-App-Tests) <br>
 • [Demo Bank App with GitHub Actions](https://github.com/ew-code/playwright-demobank-actions/tree/master) <br>
-• [NGX Cypress Tests](https://github.com/ew-code/NGX-CYPRESS-TEST)<br>
 <!-- • Test Scenario for Demo Bank App <br> -->
+
+### **NGX Cypress Tests**
+Developing automated tests for a custom Angular component library using Cypress.
+
+• [NGX Cypress Tests](https://github.com/ew-code/NGX-CYPRESS-TEST)<br>
 
 ## 📊 My Github Stats
 
@@ -100,8 +133,21 @@ Check out the repositories!
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ew-code&theme=red" />
 </p>
 
-<!-- ## 📫 Contact -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ew-code&theme=red" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ew-code&show_icons=true&theme=radical" alt="GitHub Stats Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ew-code&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+ ## 📫 Contact
+💬 I'm always open to discussing new opportunities in test automation and QA engineering. Feel free to reach out via [[<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/ewelina-wesolowska/)](#).
 
 <!-- If you have any questions or suggestions, feel free to contact me: <br> -->
 <!-- [<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:e.wesol@hotmail.com) -->
-<!-- [<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/ewelina-weso%C5%82owska/) -->
+<!-- [<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/ewelina-wesolowska/) -->
