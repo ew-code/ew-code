@@ -131,22 +131,29 @@ Developing automated tests for a custom Angular component library using Cypress.
 • [NGX Cypress Tests](https://github.com/ew-code/NGX-CYPRESS-TEST)<br>
 
 
-## 📊 My Github Stats
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ew-code&theme=red" alt="GitHub Streak Stats" width="50%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ew-code&show_icons=true&theme=red" alt="GitHub Stats Card" width="50%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ew-code&layout=compact&theme=red" alt="Top Languages" width="50%" />
+</div>
+
+## 📫 Contact
+
+💬 I'm always open to discussing new opportunities in test automation and QA engineering. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ewelina-wesolowska/).
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ew-code&theme=red" alt="GitHub Streak Stats" />
+  <a href="https://www.linkedin.com/in/ewelina-wesolowska/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ew-code&show_icons=true&theme=red" alt="GitHub Stats Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ew-code&layout=compact&theme=red" alt="Top Languages" />
-</p>
-
- ## 📫 Contact
-💬 I'm always open to discussing new opportunities in test automation and QA engineering. Feel free to reach out via [[<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/ewelina-wesolowska/)](#).
 
 <!-- If you have any questions or suggestions, feel free to contact me: <br> -->
 <!-- [<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:e.wesol@hotmail.com) -->
