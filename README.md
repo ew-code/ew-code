@@ -146,8 +146,10 @@ Developing automated tests for a custom Angular component library using Cypress.
 
 ## 📫 Contact
 
-💬 I'm always open to discussing new opportunities in test automation and QA engineering. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ewelina-wesolowska/).<a href="https://www.linkedin.com/in/ewelina-wesolowska/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" align="left" />
+💬 I'm always open to discussing new opportunities in test automation and QA engineering. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ewelina-wesolowska/).
+
+<a href="https://www.linkedin.com/in/ewelina-wesolowska/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" align="right" />
 </a>
 
 <!-- If you have any questions or suggestions, feel free to contact me: <br> -->
