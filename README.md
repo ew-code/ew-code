@@ -128,7 +128,7 @@ A series of automated tests for a banking application, focusing on UI and API la
 ### **NGX Cypress Tests**
 Developing automated tests for a custom Angular component library using Cypress.
 
-• [NGX Cypress Tests](https://github.com/ew-code/NGX-CYPRESS-TEST)<br>
+• [NGX Cypress Tests](https://github.com/ew-code/cypress/)<br>
 
 
 ## 📊 My GitHub Stats
