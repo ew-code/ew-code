@@ -34,6 +34,7 @@ When I'm not hunting down bugs, I stay up-to-date with the latest trends in tech
   <img src="./public/icons/Github.svg" alt="Github Logo" width="100" height="100">
   <img src="./public/icons/GithubActions.svg" alt="GithubActions Logo" width="100" height="100">
   <img src="./public/icons/Jenkins.svg" alt="Jenkins Logo" width="100" height="100">
+  <img src="./public/icons/Docker.svg" alt="Docker Logo" width="100" height="100">
   <img src="./public/icons/NodeJS.svg" alt="Node.js Logo" width="100" height="100">
   <img src="./public/icons/Bitbucket.svg" alt="Bitbucket Logo" width="100" height="100">
   <img src="./public/icons/Confluence.svg" alt="Confluence Logo" width="100" height="100">
@@ -52,7 +53,7 @@ When I'm not hunting down bugs, I stay up-to-date with the latest trends in tech
 - Playwright, RestAPI, Postman, Karate DSL, Swagger
 
 **CI/CD and Version Control:**
-- Git, GitHub, GitHub Actions, Jenkins, Bitbucket
+- Git, GitHub, GitHub Actions, Jenkins, Docker, Bitbucket
 
 **Collaboration and Issue Tracking:**
 - Jira, Confluence, Adaptavist, Zephyr, Trello, Asana 
