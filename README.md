@@ -126,10 +126,10 @@ A series of automated tests for a banking application, focusing on UI and API la
 • [Demo Bank App with GitHub Actions](https://github.com/ew-code/playwright-demobank-actions/tree/master) <br>
 <!-- • Test Scenario for Demo Bank App <br> -->
 
-### **NGX Cypress Tests**
-Developing automated tests for a custom Angular component library using Cypress.
+<!-- ### **NGX Cypress Tests**-->
+<!-- Developing automated tests for a custom Angular component library using Cypress.-->
 
-• [NGX Cypress Tests](https://github.com/ew-code/NGX-CYPRESS-TEST/)<br>
+<!-- • [NGX Cypress Tests](https://github.com/ew-code/NGX-CYPRESS-TEST/)<br>-->
 
 ### **Selenium OrangeHRM Tests**
 This repository contains an automated testing suite for the OrangeHRM web application using Selenium WebDriver. The project aims to test the functionality and user experience of the OrangeHRM demo website (https://opensource-demo.orangehrmlive.com/) through automated browser interactions. It is designed to help ensure the stability and reliability of the application through a comprehensive set of automated tests.
