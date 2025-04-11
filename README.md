@@ -50,7 +50,7 @@ When I'm not hunting down bugs, I stay up-to-date with the latest trends in tech
 - Playwright, TypeScript, JavaScript, Cucumber, Node.js
 
 **Backend/API Testing:**
-- Playwright, RestAPI, Postman, Karate DSL, Swagger
+- Playwright, RestAPI, Postman, Karate DSL, Bruno, Swagger
 
 **CI/CD and Version Control:**
 - Git, GitHub, GitHub Actions, Jenkins, Docker, Bitbucket
