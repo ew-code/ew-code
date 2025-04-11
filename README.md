@@ -132,7 +132,7 @@ A series of automated tests for a banking application, focusing on UI and API la
 <!-- • [NGX Cypress Tests](https://github.com/ew-code/NGX-CYPRESS-TEST/)<br>-->
 
 ### **Selenium OrangeHRM Tests** 
-## Status: In Progress
+#### Status: In Progress
 This repository contains an automated testing suite for the OrangeHRM web application using Selenium WebDriver. The project aims to test the functionality and user experience of the OrangeHRM demo website (https://opensource-demo.orangehrmlive.com/) through automated browser interactions. It is designed to help ensure the stability and reliability of the application through a comprehensive set of automated tests.
 
 • [Selenium OrangeHRM Tests](https://github.com/ew-code/SeleniumOrangeHrmProject/)<br>
