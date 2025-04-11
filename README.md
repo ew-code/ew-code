@@ -64,7 +64,7 @@ When I'm not hunting down bugs, I stay up-to-date with the latest trends in tech
 •  🛠️ Test Frameworks (Playwright + TypeScript/JavaScript)<br>
 •  📊 Continuous Integration/Deployment (GitHub Actions, Jenkins)<br>
 •  🐛 Bug Hunting and Tracking<br>
-•  🌐 API Testing and Validation (Playwright, Postman, Karate DSL)<br>
+•  🌐 API Testing and Validation (Playwright, Postman, Karate DSL, Bruno)<br>
 •  💻 Proficiency in test design techniques for creating effective and comprehensive test cases<br>
 •  📊 I'm planning to learn Performance Testing (with Artillery)<br>
 •  📱 Mobile App Testing<br>
